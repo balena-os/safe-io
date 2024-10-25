@@ -8,6 +8,7 @@ license = "Apache-2.0"
 keywords = ["fat32", "fat16", "fs", "file", "filesystem", "safe-io"]
 categories = ["filesystem", "os"]
 edition = "2021"
+publish = false
 
 [dependencies]
 anyhow = "1"
